@@ -3,7 +3,7 @@
     width: 70px;
     height: 70px;
 }
-#token-hud .status-effects {
+#token-hud .status-effects { 
     width: auto;
     grid-template-columns: 50px 50px 50px 50px;
 }
