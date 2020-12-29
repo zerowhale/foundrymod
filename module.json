@@ -2,7 +2,7 @@
   "name": "foundrymod",
   "title": "Foundry Mod",
   "description": "foundry custom mods",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "mut",
   "scripts": [ "main.js" ],
   "styles": [ "conditions.css" ],
