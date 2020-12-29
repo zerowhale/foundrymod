@@ -1,5 +1,5 @@
 #token-hud .status-effects .effect-control:hover {  opacity: 1; width: 90px; height: 90px; }
-#token-hud .status-effects { width: auto; grid-template-columns: 100px 100px 100px 100px; align-items:center; justify-items:center; align-content:center; }
+#token-hud .status-effects { width: auto; grid-template-columns: 100px 100px 100px 100px; grid-template-rows: (8, 100px); align-items:center; justify-items:center; align-content:center; }
 #token-hud .status-effects .effect-control { width: 70px; height: 70px; cursor:pointer; }
 #token-hud .status-effects img.effect-control:hover { max-width: 200%; max-height: 200%; }
 
