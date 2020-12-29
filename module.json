@@ -9,8 +9,8 @@
   "esmodules": [],
   "packs": [],
   "url": "https://github.com/zerowhale/foundrymod",
-  "manifest": "https://raw.githubusercontent.com/Sparkasaurusmex/ConditionIconHoverZoom/master/module.json",
-  "download": "https://github.com/Sparkasaurusmex/ConditionIconHoverZoom/releases/download/0.3/ConditionIconHoverZoom.zip",
+  "manifest": "https://raw.githubusercontent.com/zerowhale/foundrymod/master/module.json",
+  "download": "https://github.com/zerowhale/foundrymod/archive/master.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.5"
 }
