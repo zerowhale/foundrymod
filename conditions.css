@@ -1,32 +1,8 @@
-#token-hud .status-effects .effect-control:hover { 
-    opacity: 1;
-    width: 70px;
-    height: 70px;
-}
-#token-hud .status-effects { 
-    width: auto;
-    grid-template-columns: 50px 50px 50px 50px;
-}
-#token-hud .status-effects .effect-control {
-    width: 50px; height: 50px;
-}
-img.effect-control:hover {
-    max-width: 200%;
-    max-height: 200%;
-}
-/* Token HUD size */
-.placeable-hud .control-icon {
-    box-sizing: content-box;
-    width: 50px;
-    flex: 0 0 54px;
-    margin: 5px 0;
-    font-size: 50px;
-}
-.placeable-hud input[type="text"] {
-    height: 50px;
-    font-size: 47px;
-}
-.placeable-hud .control-icon img {
-    height: 50px;
-    width: 50px;
-}
+#token-hud .status-effects .effect-control:hover {  opacity: 1; width: 90px; height: 90px; }
+#token-hud .status-effects { width: auto; grid-template-columns: 100px 100px 100px 100px; align-items:center; justify-items:center; align-content:center; }
+#token-hud .status-effects .effect-control { width: 70px; height: 70px; cursor:pointer; }
+#token-hud .status-effects img.effect-control:hover { max-width: 200%; max-height: 200%; }
+
+.placeable-hud .control-icon { box-sizing: content-box; width: 50px; flex: 0 0 54px; margin: 5px 0; font-size: 50px; }
+.placeable-hud input[type="text"] { height: 50px; font-size: 47px; }
+.placeable-hud .control-icon img { height: 50px; width: 50px; }
