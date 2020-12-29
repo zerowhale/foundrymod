@@ -1,9 +1,9 @@
 {
-  "name": "ConditionIconHoverZoom",
-  "title": "ConditionIconHoverZoom",
+  "name": "foundrymod",
+  "title": "Foundry Mod",
   "description": "foundry custom mods",
-  "version": "0.3",
-  "author": "Sparkasaurusmex",
+  "version": "0.1",
+  "author": "mut",
   "scripts": [ "main.js" ],
   "styles": [ "conditions.css" ],
   "esmodules": [],
